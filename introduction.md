@@ -7,3 +7,4 @@ My Deadly Skills
 * node.js
 * MongoDB
 * GIT
+* Killing history using git rebase
